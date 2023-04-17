@@ -9,6 +9,8 @@ Official epitech's intranet application aivailable on you're smartphone and over
 On the application you can:
 - Have access to all of the functionnality aivailable on the intranet but in a more user friendly way, and in application format.
 
+the application is realise using flutter, use javascript injection in the webview to interact with the web version of the intranet, use a full CI/CD pipeline to deploy the application, a custom ui made with dart and flutter.
+
 # Download
 
 Android               |  iOS               | MacOS               |   Windows | Web | Linux
