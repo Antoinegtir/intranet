@@ -1,5 +1,5 @@
 <a href="https://test-bdb24.web.app">
-  <img width="100%" alt="Kams Banner" src="https://github.com/Antoinegtir/Oros/blob/main/assets/oros.png?raw=true"></a>
+  <img width="100%" alt="Kams Banner" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Epitech.png"></a>
 
 
 # Intra
