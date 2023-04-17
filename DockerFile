@@ -1,0 +1,20 @@
+# Utilisez une image de Dart comme point de départ
+FROM google/dart:latest
+
+# Copier le code source dans le conteneur
+COPY . /app
+
+# Définir le répertoire de travail
+WORKDIR /app
+
+# Exécuter la commande pub get pour télécharger les dépendance
+RUN pub get
+
+# Exécuter la commande de compilation pour générer un binaire exécutable
+RUN dart compile exe bin/main.dart -o main
+
+# Exposer le port si nécessaire
+EXPOSE 8080
+
+# Définir la commande d'exécution
+CMD ["./main"]
