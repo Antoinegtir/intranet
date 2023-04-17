@@ -11,6 +11,16 @@ On the application you can:
 
 the application is realise using flutter, use javascript injection in the webview to interact with the web version of the intranet, use a full CI/CD pipeline to deploy the application, a custom ui made with dart and flutter.
 
+Calandar               |  List               | E-learning
+:-------------------------:|:-------------------------:|:-------------------------:|
+[<img src="https://github.com/Antoinegtir/intranet/blob/main/assets/screenshot/calandar.png?raw=true" alt="Calandar Page" width="150"/>]|[<img src="https://github.com/Antoinegtir/intranet/blob/main/assets/screenshot/list.png?raw=true" alt="List Page" width="150"/>]|[<img src="https://github.com/Antoinegtir/intranet/blob/main/assets/screenshot/e-learning.png?raw=true" alt="E-learning Page" width="150"/>]
+# Cookbooks
+
+- Clone the repository
+- Install flutter environment
+- tap `flutter pub get` to install all the dependencies
+- tap `flutter run` to run the application on the device you want
+
 # Download
 
 Android               |  iOS               | MacOS               |   Windows | Web | Linux
