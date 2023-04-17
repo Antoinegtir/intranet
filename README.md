@@ -13,7 +13,7 @@ the application is realise using flutter, use javascript injection in the webvie
 
 Calandar               |  List               | E-learning
 :-------------------------:|:-------------------------:|:-------------------------:|
-[<img src="https://github.com/Antoinegtir/intranet/blob/main/assets/screenshot/calandar.png?raw=true" alt="Calandar Page" width="150"/>]|[<img src="https://github.com/Antoinegtir/intranet/blob/main/assets/screenshot/list.png?raw=true" alt="List Page" width="150"/>]|[<img src="https://github.com/Antoinegtir/intranet/blob/main/assets/screenshot/e-learning.png?raw=true" alt="E-learning Page" width="150"/>]
+<img src="https://github.com/Antoinegtir/intranet/blob/main/assets/screenshot/calandar.png?raw=true" alt="Calandar Page" width="150"/>|<img src="https://github.com/Antoinegtir/intranet/blob/main/assets/screenshot/list.png?raw=true" alt="List Page" width="150"/>|<img src="https://github.com/Antoinegtir/intranet/blob/main/assets/screenshot/e-learning.png?raw=true" alt="E-learning Page" width="150"/>
 # Cookbooks
 
 - Clone the repository
