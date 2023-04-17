@@ -1,5 +1,5 @@
-<a href="https://test-bdb24.web.app">
-  <img width="100%" alt="Kams Banner" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Epitech.png"></a>
+<a href="">
+  <img width="100%" alt="Epitech Banner" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Epitech.png"></a>
 
 
 # Intra
@@ -13,7 +13,7 @@ On the application you can:
 
 Android               |  iOS               | MacOS               |   Windows | Web | Linux
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-[<img src="https://github.com/Kams-art/Assets/blob/main/logo/android/download.png" alt="Welcome Page" width="150"/>](https://play.google.com/store/apps/details?id=com.oros.epitech&hl=en_US)|[![](https://github.com/Kams-art/Assets/blob/main/logo/ios/download.svg)](https://apps.apple.com/fr/app/oros/id1661996262)|[![](https://github.com/Kams-art/Assets/blob/main/logo/macos/download.svg)](https://apps.apple.com/fr/app/oros/id1661996262)|[<img src="https://github.com/Kams-art/Assets/blob/main/logo/windows/download.png" alt="Welcome Page" width="140"/>](https://raw.githubusercontent.com/Antoinegtir/Oros/0f34a74e8e1986a1799190b68b10230cf45ae2c2/assets/Oros.exe)|[<img src="https://github.com/Kams-art/Assets/blob/main/logo/web/download.png" alt="Welcome Page" width="140"/>](https://test-bdb24.web.app)| 🚧
+[<img src="https://github.com/Kams-art/Assets/blob/main/logo/android/download.png" alt="Welcome Page" width="150"/>]()|[![](https://github.com/Kams-art/Assets/blob/main/logo/ios/download.svg)]()|[![](https://github.com/Kams-art/Assets/blob/main/logo/macos/download.svg)]()|[<img src="https://github.com/Kams-art/Assets/blob/main/logo/windows/download.png" alt="Welcome Page" width="140"/>]()|[<img src="https://github.com/Kams-art/Assets/blob/main/logo/web/download.png" alt="Welcome Page" width="140"/>]()| 🚧
 
 # Language
 <img src="https://skillicons.dev/icons?i=ruby,dart,kotlin,swift,html,css,bash,gradle,js" />
