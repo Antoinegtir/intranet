@@ -17,7 +17,7 @@ Calandar               |  List               | E-learning
 # Cookbooks
 
 - Clone the repository
-- Install flutter environment
+- Install flutter environment -> https://docs.flutter.dev/get-started/install
 - tap `flutter pub get` to install all the dependencies
 - tap `flutter run` to run the application on the device you want
 
